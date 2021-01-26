@@ -1,0 +1,145 @@
+.carousel .carousel-item {
+  height: 400px;
+  width: 100%;
+  padding-top: auto;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+.carousel-item img {
+    position: absolute;
+    object-fit:contain;
+    top: 0;
+    left: 0;
+   
+
+        max-width: auto;
+        max-height: 100%;
+       
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.black {
+  background-color: black;
+}
+
+
+.main img
+{
+height:400px;
+max-width: 100%;
+margin:auto;
+padding: auto;
+display: block;
+object-fit: cover;
+float: left;
+}
+
+
+.main {
+  margin-bottom: 20px;
+  text-align: center;
+  background-color: lightsteelblue;
+  height: 400px;
+  width: 100% ;  
+}
+
+
+body {
+  background:  lightsteelblue  !important;
+ /* min-height: 100vh;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;*/
+}
+
+
+.form {
+            width: auto;
+            margin: 0 auto;
+            font-family: Tahoma, Geneva, sans-serif;
+        }
+        .form h1 {
+            text-align: center;
+            color: #4d4d4d;
+            font-size: 24px;
+            padding: 20px 0 20px 0;
+        }
+        .form input[type="tel"],
+        .form input[type="text"],
+         .form input[type="textarea"],
+          .form input[type="file"] {
+            width: 100%;
+            padding: 15px;
+            border: 1px solid #dddddd;
+            margin-bottom: 15px;
+            box-sizing:border-box;
+        }
+        .form input[type="submit"] {
+            width: 100%;
+            padding: 15px;
+            background-color: #535b63;
+            border: 0;
+            box-sizing: border-box;
+            cursor: pointer;
+            font-weight: bold;
+            color: #ffffff;
+        }
+
+ .cont{
+   margin: auto;
+  width: 100%;
+ /* padding: 10px;*/
+ }       
+
+      
+.order {
+  width:180px;
+  margin: auto;
+   /*margin: 50px;*/
+  position: absolute;
+  top: 40%;
+  /*left: 30%;*/
+  text-align: center;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}        
+
+.container {
+  
+  background-color: lightsteelblue;
+  height: 400px;
+  width: 100% ;
+ /*padding-top: 140px !important;
+ margin-top: 20px;*/
+}
+
+.ft {
+  color: grey;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.box{
+    height: 200px;
+    width: 400px;
+    background-color:lightgoldenrodyellow;
+    margin-left: 441px;
+    align-content: center;
+   }
+
+.dot {
+  margin: 10px;
+  height: 70px;
+  width: 140px;
+  background-color: black;
+  border-radius: 45%;
+  display: inline-block;
+}   
+
